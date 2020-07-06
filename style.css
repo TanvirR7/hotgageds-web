@@ -1,0 +1,37 @@
+body{
+   background-image: linear-gradient(to bottom, rgb(207, 247, 247) 0%, rgb(196, 248, 248) 100%);
+}
+.orange-bg{
+   background-color: rgb(253, 250, 238);
+   padding: 20px 40px;
+
+}
+.buy-now{
+border:none;
+color: white;
+border-radius: 10px;
+padding:10px 10px;
+background-image: linear-gradient(to bottom,black 0%, rgb(68, 67, 67)100%);
+
+}
+.container{
+    margin-bottom: 70px ;
+}
+
+h4{
+    text-decoration: none;
+    color: peru;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px lightgrey;
+    margin-bottom: 15px;
+}
+.card:hover{
+    box-shadow: 20px 20px 20px dimgrey;
+    transition: 0.2s;
+}
+footer{
+    text-align: center;
+}
